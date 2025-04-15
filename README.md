@@ -26,8 +26,8 @@
 
 ## 📊 Statistici GitHub (aici se vede cât de mult cod am mâncat 😅)
 
-![Ruxanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruxanda123&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruxanda123&layout=compact&theme=tokyonight)
+![Ruxanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruxxanda&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruxxanda&layout=compact&theme=tokyonight)
 
 ---
 
