@@ -22,18 +22,12 @@
 
 ---
 
-## 📊 Statistici GitHub
-
-![Ruxanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruxanda123&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruxanda123&layout=compact&theme=radical)
-
----
 
 ## 🌐 Social Media
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/](https://www.facebook.com/ruxanda.cujba.7))  
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/](https://www.instagram.com/ruxxanda.01/))
 
 ---
 
-✌️ Mulțumesc că ai trecut pe aici!
+✌️ Mulțumesc că ai trecut pe aici, nu rata să mă contactezi!
