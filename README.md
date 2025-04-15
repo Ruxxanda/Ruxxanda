@@ -1,16 +1,18 @@
-# 👋 Salut! Eu sunt Ruxanda Cujbă
+# 👋 Hei, salutare! Eu sunt Ruxanda Cujbă 🎀
 
-🎓 Elevă pasionată de **Frontend Development**  
-🌐 Creez site-uri folosind HTML, CSS, JavaScript  
-💻 Învăț: React, TypeScript, Git, Figma  
-📍 Din Tătărăuca Veche, raionul Soroca, Moldova  
-📫 Contact: **ruxanda.cujba07@gmail.com**  
-🤝 Deschisă la colaborări – mai ales proiecte educative sau pentru comunitate  
-🚀 Visez să devin un web developer complet și să inspir alți tineri
+💡 O fată simplă din Tătărăuca Veche care visează în... **cod**!  
+🎓 Elevă + Frontend Developer wannabe 💻  
+🌐 Creez site-uri care *chiar* funcționează, nu doar arată bine  
+📍 Moldova, raionul Soroca — unde și netul are suflet 🛰️  
+📫 Scrie-mi la: **ruxanda.cujba07@gmail.com**  
+✨ Motto-ul meu? *"Când viața îți dă erori, fă debugging și mergi mai departe!"* 😄  
+🧠 Învăț cu poftă: React, TypeScript, Git, Figma  
+🤝 Deschisă la proiecte faine – mai ales educaționale sau pentru comunitate  
+🚀 Visez să devin un web developer complet și... să pun zâmbete în cod! 😎
 
 ---
 
-## 🛠️ Abilități
+## 🛠️ Abilitățile mele magice (aproape ca Harry Potter cu tastatura) ✨⌨️
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -22,12 +24,26 @@
 
 ---
 
+## 📊 Statistici GitHub (aici se vede cât de mult cod am mâncat 😅)
 
-## 🌐 Social Media
-
-[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/](https://www.facebook.com/ruxanda.cujba.7))  
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/](https://www.instagram.com/ruxxanda.01/))
+![Ruxanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruxanda123&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruxanda123&layout=compact&theme=tokyonight)
 
 ---
 
-✌️ Mulțumesc că ai trecut pe aici, nu rata să mă contactezi!
+## 🌐 Hai să fim prieteni și pe net! 💬📲
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ruxanda.cujba.5)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ruxandacujba/)
+
+---
+
+## 🎉 Fun fact despre mine:
+
+> Dacă aș avea un superputere, aș adăuga `display: flex` în viața reală… ca totul să se aranjeze perfect! 🤓
+
+---
+
+✌️ Mulțumesc că ai trecut pe aici!  
+📩 Scrie-mi dacă ai idei trăsnite, proiecte cool sau vrei doar să zici "salut" 😁  
+👾 Până atunci, eu mai scriu niște cod și mănânc niște bug-uri la desert 🍰
